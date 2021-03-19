@@ -48,3 +48,4 @@ make debug
 
 ## Aperçu d'exécution
 
+![Aperçu d'exécution](https://github.com/vdElyn/[reponame]/blob/main/res/apercu.gif?raw=true)
