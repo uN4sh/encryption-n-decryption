@@ -43,9 +43,9 @@ make debug
 ```
 
 ## Détails de la structure du code
-
-![Classes du projet](https://github.com/vdElyn/[reponame]/blob/main/res/listing.png?raw=true)
+                    
+![Classes du projet](https://github.com/vdElyn/encryption-n-decryption/blob/main/res/listing.png?raw=true)
 
 ## Aperçu d'exécution
 
-![Aperçu d'exécution](https://github.com/vdElyn/[reponame]/blob/main/res/apercu.gif?raw=true)
+![Aperçu d'exécution](https://github.com/vdElyn/encryption-n-decryption/blob/main/res/apercu.gif?raw=true)
